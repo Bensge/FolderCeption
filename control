@@ -1,0 +1,9 @@
+Package: com.bensge.folderception
+Name: Folderception
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable iOS7's folder-in-folder feature!
+Maintainer: bensge
+Author: bensge
+Section: Tweaks
