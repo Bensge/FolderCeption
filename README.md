@@ -7,5 +7,5 @@ Originally coded in cycript, tested only in iOS7 Simulator as of now.
 
 Cycript code:
 ```javascript
-SBIconView.messages['canReceiveGrabbedIcon:'] = function (icon){ return YES; }
+SBIconView.messages['canReceiveGrabbedIcon:'] =  <span style=“color: green;”>function</span> (icon){ return YES; }
 ```
